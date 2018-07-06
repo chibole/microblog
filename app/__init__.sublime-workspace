@@ -1,0 +1,363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"username"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"DATA",
+				"DATABASE_PATH"
+			],
+			[
+				"tas",
+				"tasks"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"ne",
+				"new_id"
+			],
+			[
+				"ta",
+				"task_id"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"task",
+				"task_id"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"conne",
+				"connect_db"
+			],
+			[
+				"clo",
+				"closed_tasks"
+			],
+			[
+				"r",
+				"render_template"
+			],
+			[
+				"co",
+				"connect_db"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"log",
+				"logged_in"
+			],
+			[
+				"rando",
+				"random1"
+			],
+			[
+				"random",
+				"random2"
+			],
+			[
+				"FOR",
+				"form"
+			],
+			[
+				"logged",
+				"logged_in"
+			],
+			[
+				"wra",
+				"wrap"
+			],
+			[
+				"P",
+				"PASSWORD"
+			],
+			[
+				"F",
+				"form"
+			],
+			[
+				"RE",
+				"request"
+			],
+			[
+				"Da",
+				"DATABASE"
+			],
+			[
+				"_",
+				"__name__"
+			],
+			[
+				"flask",
+				"Flask"
+			],
+			[
+				"in",
+				"INTO"
+			],
+			[
+				"e",
+				"execute"
+			],
+			[
+				"int",
+				"INSERT"
+			],
+			[
+				"insert",
+				"INSERT"
+			],
+			[
+				"ins",
+				"INSERT"
+			],
+			[
+				"m",
+				"minimum"
+			],
+			[
+				"order",
+				"order_date"
+			],
+			[
+				"mODEL",
+				"Model"
+			],
+			[
+				"wh",
+				"WHERE"
+			],
+			[
+				"i",
+				"inventory"
+			],
+			[
+				"M",
+				"Model"
+			],
+			[
+				"w",
+				"WHERE"
+			],
+			[
+				"f",
+				"FROM"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"logi",
+				"login_required"
+			],
+			[
+				"IN",
+				"inventory"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Documents/RealPython/flask-blog/flask-blog.py",
+		"/C/Users/user/Documents/RealPythonD/flask/main.html",
+		"/C/Users/user/Documents/RealPythonD/flask/login.html",
+		"/C/Users/user/Documents/RealPythonD/flask/templates/template.html",
+		"/C/Users/user/Documents/RealPythonD/flask/templates/login.html",
+		"/C/Users/user/Documents/RealPythonD/flask/template.html",
+		"/C/Users/user/Documents/RealPython/sql/O41_sql.py",
+		"/C/Users/user/Documents/RealPython/sql/employee.csv",
+		"/C/Users/user/Documents/RealPythonD/flask/env1/env/Lib/site-packages/flask/app.py",
+		"/C/Users/user/Documents/RealPythonD/flask/app2.py",
+		"/C/Users/user/Documents/RealPythonD/flask/README.md",
+		"/C/Users/user/Documents/RealPythonD/hello.py",
+		"/C/Users/user/Documents/RealPythonD/test.py",
+		"/C/Users/user/Documents/RealPython/flask-hello-world/env/Scripts/activate",
+		"/C/Users/user/Documents/RealoythonD/environment.py",
+		"/C/Users/user/Documents/RealPython/sql/02_sql.py",
+		"/C/Users/user/Documents/RealPython/real-python-test/README.md",
+		"/C/Users/user/Documents/DataquestProjects/hello.py",
+		"/C/Users/user/Documents/DataquestProjects/test.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "__init__.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
